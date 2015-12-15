@@ -1,0 +1,70 @@
+
+[2015-12-07 16:09:27][13E2B917][ INFO] - test
+[2015-12-07 16:09:27][13E2B917][DEBUG] - TEST-UID-3256beca-1c99-4fd5-9136-4af76e912b6c
+[2015-12-07 16:09:27][13E2B917][DEBUG] - encrypted> R25kZWNaRUtXdjVmSjJicTZhRENhdz09
+[2015-12-07 16:09:27][13E2B917][DEBUG] - decrypted> TEST-UID
+[2015-12-07 16:09:27][13E2B917][DEBUG] - db-connected.....
+[2015-12-07 16:09:27][13E2B917][DEBUG] - db-disconnected.....
+[2015-12-07 16:09:27][13E2B917][DEBUG] - locked> 3947
+[2015-12-07 16:09:27][13E2B917][DEBUG] - OBJ> App\Mongers\Mongers::__set_state(array(
+   'attr' => 
+  array (
+    'mailer_class' => 
+    Closure::__set_state(array(
+    )),
+    'mailer_username' => 
+    Closure::__set_state(array(
+    )),
+    'mailer_password' => 
+    Closure::__set_state(array(
+    )),
+  ),
+))
+[2015-12-07 16:09:28][13E2B917][DEBUG] - SEND-MAIL> ;
+[2015-12-07 16:09:28][13E2B917][DEBUG] - unlocked> 3947
+[2015-12-07 16:10:55][56D8F3BE][ INFO] - test
+[2015-12-07 16:10:55][56D8F3BE][DEBUG] - TEST-UID-6ad47993-318f-c36b-ea8b-51180136286b
+[2015-12-07 16:10:55][56D8F3BE][DEBUG] - encrypted> R25kZWNaRUtXdjVmSjJicTZhRENhdz09
+[2015-12-07 16:10:55][56D8F3BE][DEBUG] - decrypted> TEST-UID
+[2015-12-07 16:10:55][56D8F3BE][DEBUG] - db-connected.....
+[2015-12-07 16:10:55][56D8F3BE][DEBUG] - db-disconnected.....
+[2015-12-07 16:10:55][56D8F3BE][DEBUG] - locked> 3947
+[2015-12-07 16:10:55][56D8F3BE][DEBUG] - OBJ> App\Mongers\Mongers::__set_state(array(
+   'attr' => 
+  array (
+    'mailer_class' => 
+    Closure::__set_state(array(
+    )),
+    'mailer_username' => 
+    Closure::__set_state(array(
+    )),
+    'mailer_password' => 
+    Closure::__set_state(array(
+    )),
+  ),
+))
+[2015-12-07 16:10:56][56D8F3BE][DEBUG] - SEND-MAIL> ;
+[2015-12-07 16:10:56][56D8F3BE][DEBUG] - unlocked> 3947
+[2015-12-07 16:11:23][0711FCFE][ INFO] - test
+[2015-12-07 16:11:23][0711FCFE][DEBUG] - TEST-UID-3ba322b6-55a1-d7d1-b838-264bbe6bcfca
+[2015-12-07 16:11:23][0711FCFE][DEBUG] - encrypted> R25kZWNaRUtXdjVmSjJicTZhRENhdz09
+[2015-12-07 16:11:23][0711FCFE][DEBUG] - decrypted> TEST-UID
+[2015-12-07 16:11:23][0711FCFE][DEBUG] - db-connected.....
+[2015-12-07 16:11:23][0711FCFE][DEBUG] - db-disconnected.....
+[2015-12-07 16:11:23][0711FCFE][DEBUG] - locked> 3947
+[2015-12-07 16:11:23][0711FCFE][DEBUG] - OBJ> App\Mongers\Mongers::__set_state(array(
+   'attr' => 
+  array (
+    'mailer_class' => 
+    Closure::__set_state(array(
+    )),
+    'mailer_username' => 
+    Closure::__set_state(array(
+    )),
+    'mailer_password' => 
+    Closure::__set_state(array(
+    )),
+  ),
+))
+[2015-12-07 16:11:24][0711FCFE][DEBUG] - SEND-MAIL> ;dev-apps.mongers.com
+[2015-12-07 16:11:24][0711FCFE][DEBUG] - unlocked> 3947

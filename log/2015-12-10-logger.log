@@ -1,0 +1,23 @@
+[2015-12-10 22:39:46][60F05EBE][ INFO] - test
+[2015-12-10 22:39:46][60F05EBE][DEBUG] - TEST-UID-158b702d-66f0-baa7-fee7-07c4137a8ea5
+[2015-12-10 22:39:46][60F05EBE][DEBUG] - encrypted> R25kZWNaRUtXdjVmSjJicTZhRENhdz09
+[2015-12-10 22:39:46][60F05EBE][DEBUG] - decrypted> TEST-UID
+[2015-12-10 22:39:47][60F05EBE][DEBUG] - db-connected.....
+[2015-12-10 22:39:47][60F05EBE][DEBUG] - db-disconnected.....
+[2015-12-10 22:39:47][60F05EBE][DEBUG] - locked> 3947
+[2015-12-10 22:39:47][60F05EBE][DEBUG] - OBJ> App\Mongers\Mongers::__set_state(array(
+   'attr' => 
+  array (
+    'mailer_class' => 
+    Closure::__set_state(array(
+    )),
+    'mailer_username' => 
+    Closure::__set_state(array(
+    )),
+    'mailer_password' => 
+    Closure::__set_state(array(
+    )),
+  ),
+))
+[2015-12-10 22:39:48][60F05EBE][DEBUG] - SEND-MAIL> ;dev-apps.mongers.com
+[2015-12-10 22:39:48][60F05EBE][DEBUG] - unlocked> 3947
